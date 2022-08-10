@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GEETANJALI-TIWARI
-- 👀 I’m interested in data and how it can be used to make decisions. I am also interested in AI.
+- 👀 I’m interested in data and how it can be used to make decisions.
 - 🌱 I’m currently learning Tableau and Power BI
 - 💞️ I’m looking to collaborate on Business analysis/analytics/ at the moment
 
